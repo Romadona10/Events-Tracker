@@ -1,0 +1,14 @@
+.container{
+    background-color:#4F4557 ;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-width: thin;
+    width: 350px;
+    padding: 20px;
+    display: inline-block;
+    
+}
+.container-one{
+    background-color: black;
+}

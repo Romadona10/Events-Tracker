@@ -1,0 +1,19 @@
+label{
+    display: flex;
+    font-weight:bold ;
+    font-family: sans-serif;
+}
+input{
+    width: 100%;
+    border-radius: 4px;
+    padding: 5px;
+    font-weight: bold;
+}
+.btn-block{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    margin: 8px 8px;
+    padding: 5px;
+}
+

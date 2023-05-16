@@ -1,0 +1,22 @@
+import {Task} from './Task'
+
+export const Tasks: Task[]=[
+    {
+        id:1,
+        text:'Doctors appointment',
+        day:'May 5th at 2:30pm',
+        remainder:true,
+    },
+    {
+        id:2,
+        text:'Meeting at School',
+        day:'May 6th at 1:30pm',
+        remainder:true,
+    },
+    {
+        id:3,
+        text:'going to shopping',
+        day:'May 7th at 3:30pm',
+        remainder:false,
+    }
+]

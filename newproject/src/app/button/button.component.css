@@ -1,0 +1,9 @@
+button{
+    color: white;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 3px;
+}
+button:active{
+    transform: translateY(2px);
+}

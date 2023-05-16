@@ -1,0 +1,17 @@
+h3{
+    color: purple;
+}
+
+strong{
+    font-weight: bold;
+    font-size: 40px;
+    color: goldenrod;
+}
+span{
+    color: orangered;
+    font-size: 25px;
+}
+span:hover{
+    text-decoration: underline;
+    color: skyblue;
+}
